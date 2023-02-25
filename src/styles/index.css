@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#number{
+    background: rgb(24, 24, 24);
+    border-radius: 10%;
+    border: 2px solid rgb(27, 27, 27);
+}
+
+#backGround{
+    background: black;
+}
